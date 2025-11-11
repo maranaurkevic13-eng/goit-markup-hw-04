@@ -165,7 +165,7 @@ img {
 /* section 1 */
 
 .hero {
-    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/img-name.jpeg);
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/img-name.jpg);
     background-color: #2E2F42;
     padding-bottom: 188px;
     padding-top: 188px;
@@ -503,8 +503,7 @@ img {
 }
 
 .footer-container {
-    display: flex;
-    gap: 120px;
+    display: flex;     
     align-items: baseline;
 }
 
